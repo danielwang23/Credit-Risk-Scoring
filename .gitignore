@@ -1,0 +1,15 @@
+# Ignore system files
+.DS_Store
+.bash_history
+.Rhistory
+.python_history
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore cache and log files
+*.log
+cache/
+tmp/
+
+.data
